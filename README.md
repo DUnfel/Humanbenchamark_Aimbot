@@ -1,1 +1,2 @@
-# Humanbenchamark_Aimbot
+Aimbot for Humanbenchmark aim test
+Works only for windows 
